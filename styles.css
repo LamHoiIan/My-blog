@@ -1,5 +1,5 @@
 body{
-	background-color: pink;
+	background-color:lightcyan;
 }
 h1{
 	color: blueviolet;
@@ -11,4 +11,34 @@ p{
 h1 {
 	color: cornflowerblue;
 	text-align: center;
+}
+h1 {
+	background-color:aqua;
+	color:cornflowerblue;
+}
+h1 {
+	text-align: center
+}
+a {
+	text-decoration: none
+}
+p {
+	line-height: 10
+}
+p {
+	font-family: "Times New Roman", Times,serif;
+}
+#firstp {
+	color: gold ;
+	line-height: 10
+}
+#secondp {
+	color: gold ;
+	line-height: 10
+}
+.blue {
+	color: blue;
+}
+.red {
+	color: indianred
 }
